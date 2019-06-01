@@ -33,7 +33,7 @@ Feature: travelocity Flight Search functionality
       | columbus             | Columbus, OH | cleveland | Cleveland, OH |
       | chicago              | Ohare, IL    | austin    | Austin, TX    |
       | columbus             | Columbus, OH | cleveland | Cleveland, OH |
-   
+
 
 
 

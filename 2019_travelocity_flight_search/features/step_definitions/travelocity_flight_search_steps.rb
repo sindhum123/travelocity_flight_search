@@ -75,7 +75,7 @@ And(/^user searches for the (future|past) flights with valid inputs$/) do |futur
   #   page.set_dep_date future_past
   #   page.set_arr_date future_past
   #   page.search_flights_element.click
-  # end
+   end
 
   # Step "user enter #{columbus} in the flying from and select #{Columbus} from the list of airports"
   # Step "user enter #{cleveland} in the flying To and select #{Cleveland} from the list of airports"
