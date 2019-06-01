@@ -1,4 +1,4 @@
-Feature: travelocity cruise Search functionality
+Feature: Travelocity cruise Search functionality
 
   Background:
     Given user is on travelocity home page
